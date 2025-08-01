@@ -128,215 +128,33 @@
         }
       ],
       "id": 4
+    }
+  ],
+  "users": [
+    {
+      "username": "praveen",
+      "password": "123",
+      "role": "admin"
     },
     {
-      "fullname": "Juthuka surya Chaitanya",
-      "age": 23,
-      "gender": "Male",
-      "email": "juthukasuryachaitanya@gmail.com",
-      "mobilenumber": 9705245030,
-      "courses": "MERN STACK",
-      "enquriydetails": {
-        "mode": "Phone Call",
-        "attendedBy": "Praveen gubbala",
-        "date": "2024-11-01",
-        "status": "Pending",
-        "timestamp": "2025-2-18  11: 17: 13",
-        "notes": "good",
-        "callbackOn": "2024-11-02",
-        "rating": 5
-      },
-      "remarks": [
-        {
-          "text": "HELLO",
-          "timestamp": "2025-4-2  23: 27: 9"
-        },
-        {
-          "text": "WANTED TO JOIN MERN BATCH",
-          "timestamp": "2025-2-21  12: 25: 39"
-        }
-      ],
-      "id": 1
+      "username": "roja",
+      "password": "123",
+      "role": "manager"
     },
     {
-      "fullname": "Manikanta Balina",
-      "age": 22,
-      "gender": "Male",
-      "email": "bmanikanta12456@gmail.com",
-      "mobilenumber": 8886812526,
-      "courses": "JAVASCRIPT",
-      "enquriydetails": {
-        "mode": "Email",
-        "attendedBy": "Praveen gubbala",
-        "date": "2025-03-18",
-        "status": "Active",
-        "timestamp": "2025-2-18  11: 21: 41",
-        "notes": "java",
-        "callbackOn": "2025-03-29",
-        "rating": 5
-      },
-      "remarks": [
-        {
-          "text": "HI",
-          "timestamp": "2025-2-18  11: 22: 42"
-        }
-      ],
-      "id": 2
+      "username": "sai",
+      "password": "123",
+      "role": "student"
     },
     {
-      "fullname": "Venkat K",
-      "age": 23,
-      "gender": "Male",
-      "email": "venkat@gmail.com",
-      "mobilenumber": 9948125632,
-      "courses": "MERN STACK",
-      "enquriydetails": {
-        "mode": "Whatsapp",
-        "attendedBy": "Praveen gubbala",
-        "date": "2025-03-20",
-        "status": "Inactive",
-        "timestamp": "2025-2-21  12: 29: 20",
-        "notes": "intreseted in mern",
-        "callbackOn": "2025-03-25",
-        "rating": 5
-      },
-      "remarks": [
-        {
-          "text": "Wanted to join Mern Stack",
-          "timestamp": "2025-2-21  12: 29: 20"
-        }
-      ],
-      "id": 3
+      "username": "raju",
+      "password": "123",
+      "role": "student"
     },
     {
-      "fullname": "Aditya",
-      "age": 22,
-      "gender": "Male",
-      "email": "adityavipparti2002@gmail.com",
-      "mobilenumber": 9110509258,
-      "courses": "CSS",
-      "enquriydetails": {
-        "mode": "Phone Call",
-        "attendedBy": "Praveen gubbala",
-        "date": "2025-02-21",
-        "status": "Active",
-        "timestamp": "2025-2-18  11: 54: 23",
-        "notes": "hello world",
-        "callbackOn": "2025-03-18",
-        "rating": 5
-      },
-      "remarks": [
-        {
-          "text": "will join from 23th march",
-          "timestamp": "2025-2-18  11: 54: 23"
-        }
-      ],
-      "id": 4
-    },
-    {
-      "fullname": "Juthuka surya Chaitanya",
-      "age": 23,
-      "gender": "Male",
-      "email": "juthukasuryachaitanya@gmail.com",
-      "mobilenumber": 9705245030,
-      "courses": "MERN STACK",
-      "enquriydetails": {
-        "mode": "Phone Call",
-        "attendedBy": "Praveen gubbala",
-        "date": "2024-11-01",
-        "status": "Pending",
-        "timestamp": "2025-2-18  11: 17: 13",
-        "notes": "good",
-        "callbackOn": "2024-11-02",
-        "rating": 5
-      },
-      "remarks": [
-        {
-          "text": "HELLO",
-          "timestamp": "2025-4-2  23: 27: 9"
-        },
-        {
-          "text": "WANTED TO JOIN MERN BATCH",
-          "timestamp": "2025-2-21  12: 25: 39"
-        }
-      ],
-      "id": 1
-    },
-    {
-      "fullname": "Manikanta Balina",
-      "age": 22,
-      "gender": "Male",
-      "email": "bmanikanta12456@gmail.com",
-      "mobilenumber": 8886812526,
-      "courses": "JAVASCRIPT",
-      "enquriydetails": {
-        "mode": "Email",
-        "attendedBy": "Praveen gubbala",
-        "date": "2025-03-18",
-        "status": "Active",
-        "timestamp": "2025-2-18  11: 21: 41",
-        "notes": "java",
-        "callbackOn": "2025-03-29",
-        "rating": 5
-      },
-      "remarks": [
-        {
-          "text": "HI",
-          "timestamp": "2025-2-18  11: 22: 42"
-        }
-      ],
-      "id": 2
-    },
-    {
-      "fullname": "Venkat K",
-      "age": 23,
-      "gender": "Male",
-      "email": "venkat@gmail.com",
-      "mobilenumber": 9948125632,
-      "courses": "MERN STACK",
-      "enquriydetails": {
-        "mode": "Whatsapp",
-        "attendedBy": "Praveen gubbala",
-        "date": "2025-03-20",
-        "status": "Inactive",
-        "timestamp": "2025-2-21  12: 29: 20",
-        "notes": "intreseted in mern",
-        "callbackOn": "2025-03-25",
-        "rating": 5
-      },
-      "remarks": [
-        {
-          "text": "Wanted to join Mern Stack",
-          "timestamp": "2025-2-21  12: 29: 20"
-        }
-      ],
-      "id": 3
-    },
-    {
-      "fullname": "Aditya",
-      "age": 22,
-      "gender": "Male",
-      "email": "adityavipparti2002@gmail.com",
-      "mobilenumber": 9110509258,
-      "courses": "CSS",
-      "enquriydetails": {
-        "mode": "Phone Call",
-        "attendedBy": "Praveen gubbala",
-        "date": "2025-02-21",
-        "status": "Active",
-        "timestamp": "2025-2-18  11: 54: 23",
-        "notes": "hello world",
-        "callbackOn": "2025-03-18",
-        "rating": 5
-      },
-      "remarks": [
-        {
-          "text": "will join from 23th march",
-          "timestamp": "2025-2-18  11: 54: 23"
-        }
-      ],
-      "id": 4
+      "username": "ramya",
+      "password": "123",
+      "role": "manager"
     }
   ]
 }
-     
